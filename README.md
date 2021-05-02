@@ -11,7 +11,9 @@ Algorithms
 
 4.DBSCAN
 
-5.CONTENT BASED RECOMMENDATION
+5.CONTENT BASED FILTERING
+
+The final model is implemented using Content Based Recommendation Flitering algorithm in pycharm 
 
 
 
