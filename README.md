@@ -1,5 +1,5 @@
 # Restaurant-Recommendation-System
-Using unsupervised ML algorithm to recommend restaurants with Zomato Bengaluru Dataset
+Using unsupervised ML algorithms to recommend restaurants to the users with Zomato Bengaluru Dataset
 
 Algorithms
 
@@ -13,7 +13,7 @@ Algorithms
 
 5.CONTENT BASED FILTERING
 
-The final model is implemented using Content Based Recommendation Flitering algorithm in pycharm 
+The final model is implemented using Content Based Recommendation algorithm in pycharm 
 
 
 
