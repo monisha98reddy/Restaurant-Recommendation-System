@@ -1,4 +1,6 @@
 # Restaurant-Recommendation-System
+![zomato-1200x600](https://user-images.githubusercontent.com/63378154/135048410-f2691afe-6de7-4643-9653-d1f03b34110e.jpeg)
+
 Using unsupervised ML algorithms to recommend restaurants to the users with Zomato Bengaluru Dataset
 
 Algorithms
